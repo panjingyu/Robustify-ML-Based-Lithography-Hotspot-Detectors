@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+wandb/
+log*/
+data/
+test*/
+*.zip
+*.gds
+*.png
+*.npy
